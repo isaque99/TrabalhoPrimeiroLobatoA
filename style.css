@@ -1,4 +1,4 @@
-body {background-color:rgba(79, 121, 105, 0);
+body {background-color:rgba(0, 0, 0, 0.808);
 }
 
 h1 {color:red;
@@ -13,7 +13,7 @@ h1 {color:red;
 ul {font-size: 300%;
 }
 
-ul {background-color: #555555
+ul {background-color: #f10f1b
 }
 
 #imagem-um {width: 70%;
